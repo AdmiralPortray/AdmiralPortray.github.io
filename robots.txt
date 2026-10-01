@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://admiralportray.github.io/sitemap.xml
